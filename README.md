@@ -1,2 +1,2 @@
 ## Book request
-### If you want any books, please create a pull request, I will upload for you.
+### If you want any books, please create a issue, I will upload for you.
